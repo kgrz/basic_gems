@@ -24,3 +24,11 @@ gem 'unicorn'
 # libraries
 
 gem 'yajl-ruby'
+gem 'nokogiri'
+gem 'rspec'
+
+
+
+# Tools
+
+gem 'gist'
